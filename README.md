@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingDvid97
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software Engineering
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me on WhatsApp or Slack 
 
